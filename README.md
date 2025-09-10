@@ -6,7 +6,7 @@ The Work Space World project analyzes retail sales data (Superstore-style datase
 <img width="1919" height="1079" alt="Screenshot 2025-09-10 114827" src="https://github.com/user-attachments/assets/14d8dabf-dd32-4b40-ab35-c06321afc28e" />
 <img width="1919" height="1079" alt="Screenshot 2025-09-10 114838" src="https://github.com/user-attachments/assets/10d18610-468a-4f2a-93ba-c33b57792d0e" />
 
-What I did on this project:
+**Project Overview:**
 
 **Data Cleaning & Preparation**
 
